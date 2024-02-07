@@ -11,4 +11,4 @@ zhazhagao_
 
 ### QQ
 632411450
-![I~58U{ PJ0FB8@X ~M_8M [L75.jpg|300](https://s2.loli.net/2024/02/07/MRwYpnmaqzV2JjP.jpg)
+![QQ|300](https://s2.loli.net/2024/02/07/MRwYpnmaqzV2JjP.jpg)
