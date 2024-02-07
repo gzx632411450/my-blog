@@ -1,6 +1,7 @@
 ---
-{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-06-25T16:59:25+06:00","permalink":"/Me//","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","dg-path":"Me/"}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og: description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-06-25T16:59:25+06:00","permalink":"/Me//","metatags":{"description":"Utsob's Digital Garden","og: description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","dg-path":"Me/"}
 ---
+
 
 
 > [!quote] 恭喜你发现了宝藏博客
@@ -51,31 +52,21 @@ Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpos
 > Maturity Levels are subjective. It might only means that I'm a very immature person.
 
 
-## On Top of My mind…
-| Cover                                                            | Title                                                                                                             | Updated                                                              | Created                                                              | Tags                                      | Inset                                                                                                                                        |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>     | [[Personal/Musings/On CyberEnsō\|On CyberEnsō]]                                                                | <i icon-name=calendar-clock></i><small>Jan 09, 2024 10:26 am</small> | <i icon-name=calendar-plus></i><small>Feb 07, 2023 10:56 am</small>  | #generative-art #art                      | <img class=inset-cover src=''/>                                                                                                              |
-| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>     | [[Personal/Musings/A Ghost Story\|A Ghost Story]]                                                              | <i icon-name=calendar-clock></i><small>Jan 02, 2024 02:46 pm</small> | <i icon-name=calendar-plus></i><small>Dec 17, 2023 08:11 pm</small>  | #politics                                 | <img class=inset-cover src=''/>                                                                                                              |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>     | [[Personal/Reading/Books/Read/Why Men Fight by Bertrand Russell\|Why Men Fight]]                               | <i icon-name=calendar-clock></i><small>Dec 28, 2023 03:10 pm</small> | <i icon-name=calendar-plus></i><small>Dec 23, 2023 03:30 pm</small>  | #book #Philosophy #sociology #politics    | <img class=inset-cover src='https://books.google.com/books/publisher/content/images/frontcover/yq2MAgAAQBAJ?fife=w600-h900&source=gbs_api'/> |
-| <img src='https://hermitage.utsob.me/img/stone-cover-card.jpg'/> | [[Personal/Reading/Notes and Highlights/Why Men Fight by Bertrand Russell\|Notes from Why Men Fight]]          | <i icon-name=calendar-clock></i><small>Dec 28, 2023 12:42 pm</small> | <i icon-name=calendar-plus></i><small>Dec 28, 2023 12:14 pm</small>  |                                           | <img class=inset-cover src=''/>                                                                                                              |
-| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>     | [[Personal/Reading/Reading Note Convention\|Reading Note Convention]]                                          | <i icon-name=calendar-clock></i><small>Dec 26, 2023 10:33 am</small> | <i icon-name=calendar-plus></i><small>Jan 31, 2023 12:41 am</small>  | #reading-convention                       | <img class=inset-cover src=''/>                                                                                                              |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>     | [[Personal/Reading/Books/Read/V for Vendetta by Alan Moore\|V for Vendetta]]                                   | <i icon-name=calendar-clock></i><small>Dec 18, 2023 10:54 am</small> | <i icon-name=calendar-plus></i><small>Sept 30, 2017 12:00 am</small> | #bestreads                                | <img class=inset-cover src='https://books.google.com/books/publisher/content/images/frontcover/efPjAAAAQBAJ?fife=w600-h900&source=gbs_api'/> |
-| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/>     | [[Personal/Writings/Technical/HowTos/KOReader to Obsidian\|KOReader to Obsidian: Export Notes and Highlights]] | <i icon-name=calendar-clock></i><small>Dec 18, 2023 10:43 am</small> | <i icon-name=calendar-plus></i><small>Sept 10, 2023 02:38 pm</small> | #koreader #obsidian #how-to #notes-export | <img class=inset-cover src=''/>                                                                                                              |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>     | [[Entities/Literature/V for Vendetta/Characters/V\|V]]                                                         | <i icon-name=calendar-clock></i><small>Oct 29, 2023 02:26 am</small> | <i icon-name=calendar-plus></i><small>Oct 25, 2023 11:18 am</small>  | #VforVendetta                             | <img class=inset-cover src=''/>                                                                                                              |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>     | [[Entities/Literature/V for Vendetta/Characters/Bishop Anthony Lilliman\|Bishop Anthony Lilliman]]             | <i icon-name=calendar-clock></i><small>Oct 28, 2023 11:32 pm</small> | <i icon-name=calendar-plus></i><small>Oct 26, 2023 12:46 pm</small>  | #VforVendetta                             | <img class=inset-cover src=''/>                                                                                                              |
-| <img src='https://hermitage.utsob.me/img/1-cover-card.jpg'/>     | [[Entities/Literature/V for Vendetta/Characters/Delia Surridge\|Delia Surridge]]                               | <i icon-name=calendar-clock></i><small>Oct 28, 2023 11:21 pm</small> | <i icon-name=calendar-plus></i><small>Oct 28, 2023 11:15 pm</small>  | #VforVendetta                             | <img class=inset-cover src=''/>                                                                                                              |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/>     | [[Entities/Literature/V for Vendetta/Characters/Lewis Prothero\|Lewis Prothero]]                               | <i icon-name=calendar-clock></i><small>Oct 28, 2023 11:21 pm</small> | <i icon-name=calendar-plus></i><small>Oct 26, 2023 12:16 pm</small>  | #VforVendetta                             | <img class=inset-cover src=''/>                                                                                                              |
-| <img src='https://hermitage.utsob.me/img/1-cover-card.jpg'/>     | [[Entities/Literature/V for Vendetta/Characters/Adam James Susan\|Adam James Susan]]                           | <i icon-name=calendar-clock></i><small>Oct 27, 2023 01:22 am</small> | <i icon-name=calendar-plus></i><small>Oct 26, 2023 12:29 pm</small>  | #VforVendetta                             | <img class=inset-cover src=''/>                                                                                                              |
+## 以后打算做的
+| Cover | Title | Updated | Tags | Inset |
+| ---- | ---- | ---- | ---- | ---- |
+| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/> | Tomcat |  |  | <img class=inset-cover src=''/> |
+| <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/> | Obsidian 使用 | <i icon-name=calendar-clock></i><small>Jan 02, 2024 02:46 pm</small> |  | <img class=inset-cover src=''/> |
+| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/> | [[从博客到笔记法\|从博客到笔记法]] |  |  |  |
+
+
+
 
 { .block-language-dataview}
-## Discussion
-Digital gardens are not about marketing/expressing opinion/prophesize etc. It is about nurturing our thoughts publicly and collectively. To discuss with me, there are two ways.
+## 评论
+暂时没有上线评论功能，暂不支持。可以微信或者 QQ 联系
 
-### Emails
-From any note's page, click the email button on the bottom right to start an email thread. This is private.
 
-### Comments
-Every note has a comment section powered by Disqus. Feel free to use that if you don't mind public discussions.
 
 ### Policy
 I don't seek publicity. If you find anything praiseworthy (I doubt you will), tell me privately. For commenting, these are the basic rules I believe not too much to abide by:
