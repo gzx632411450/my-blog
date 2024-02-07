@@ -1,5 +1,5 @@
 ---
-{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og: description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-06-25T16:59:25+06:00","permalink":"/Me//","metatags":{"description":"Utsob's Digital Garden","og: description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","dg-path":"Me/"}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og: description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-06-25T16:59:25+06:00","permalink":"/Me//","metatags":{"description":"Utsob's Digital Garden","og: description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","dg-path":"Me/"}
 ---
 
 
@@ -9,7 +9,8 @@
 > **注：很多功能，手机端无法支持!!!!!**
 
 ## 简要介绍
-在这里，我不仅会记录我技术之路，包括体验、技术、源码。也希望大家能与我交流， [[博客/My Contact#QQ\|My Contact#QQ]]  [[博客/My Contact#微信\|My Contact#微信]]
+>在这里，我不仅会记录我技术之路 (技术、源码、文章、工作)，也会记录自己的生活。
+>也真心希望大家能与我交流， [[博客/My Contact#QQ\|My Contact#QQ]]  [[博客/My Contact#微信\|My Contact#微信]]
 
 (鼠标千万别停留在链接上，不然你会看见我的联系方式)
 >当然，你也可以选择， [connect me with Email](mailto:632411450@qq.com)
@@ -63,10 +64,6 @@
 | <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/> | Obsidian 使用 | <i icon-name=calendar-clock></i><small>Jan 02, 2024 02:46 pm</small> |  | <img class=inset-cover src=''/> |
 | <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/> | 从博客到笔记法 |  |  |  |
 
-
-
-
-{ .block-language-dataview}
 ## 评论
 暂时没有上线评论功能，暂不支持。可以微信或者 QQ 联系
 
