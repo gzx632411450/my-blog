@@ -6,6 +6,7 @@
 
 > [!quote] 恭喜你发现了宝藏博客
 > 这里是渣渣高的博客，你将在这里看见之前从未见过的笔记形式。
+> **注：很多功能，手机端无法支持!!!!!**
 
 ## 简要介绍
 在这里，我不仅会记录我技术之路，包括体验、技术、源码。也希望大家能与我交流， [[博客/My Contact#QQ\|My Contact#QQ]]  [[博客/My Contact#微信\|My Contact#微信]]
@@ -25,31 +26,24 @@
 
 
 ## 文章成熟度
-我笔记没有划分成熟度，因为记得很清楚。而为了让大家有==更好的阅读体会==，特此在博客中划分
-
 ### Seedling & 幼苗
 >幼苗 (![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)) 
 >只是在最基本的学习和计划，知识点还没有形成连贯性的体系。
 >> 例如，学习了 Spring ，但是只会基本的使用和概念。
 
-
 ### 小树
 >小树 (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) 
 >一般指的是，我对这个框架有简单的认识，并且也了解基本的原理。
-
 ### 大树
 > 大树 (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) 
 > 我对这个框架有了较深的认识。
 > 我打上大树标志的栏目/笔记，全部都是含有亮点的笔记。你只要在面试中说出，便是一大亮点。
-
 ### 枯萎的树木
 >枯萎的树 (![Maturity Level: withered|14](https://hermitage.utsob.me/img/withered.svg)) 
 >即我不在使用该框架，短时间内不会继续更新的文章。
-
 ### PDF 笔记 & 书籍笔记
 >Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) ：
    我非常喜欢看书，我后续会不断上线我的阅读笔记，大家也可参考。
-
 ### 指路牌
 指路牌 (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) ，就是目录。我一个栏目会划分很多个文章，文章内又会通过各种链接串联知识点，如果没有一个目录，你绝对会迷路。
 
