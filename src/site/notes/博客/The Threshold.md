@@ -8,19 +8,19 @@
 > 这里是渣渣高的博客，你将在这里看见之前从未见过的笔记形式。
 
 ## 简要介绍
-在这里，我不仅会记录我技术之路，包括体验、技术、源码。也希望大家能与我交流， [[博客/My Contact#QQ\|My Contact#QQ]]]  [[博客/My Contact#微信\|My Contact#微信]]
+在这里，我不仅会记录我技术之路，包括体验、技术、源码。也希望大家能与我交流， [[博客/My Contact#QQ\|My Contact#QQ]]  [[博客/My Contact#微信\|My Contact#微信]]
 
 (鼠标千万别停留在链接上，不然你会看见我的联系方式)
 >当然，你也可以选择， [connect me with Email](mailto:632411450@qq.com)
 
-我的笔记，到底有什么不同?
+我的博客，到底有什么不同?
 >Tip: 手机端无法预览
 -  预览：鼠标移动到链接上，或者按 `Ctrl` ，点击即可跳转。[[博客/My Contact\|My Contact]]
 - 双链：双链是个神奇的东西，我做笔记的时时刻刻，都会注重双链。简单来说，双链包含出链-->本文引用的其他文章，入链-->引用本文的文章。
 - 知识图谱：非常牛逼的存在，在文章的底部或者右侧，你将看见和本文有关的所有文章
 - 全文搜索：你可以使用 `Ctrl + K` 来进行全文搜索和跳转
 - 标签：某些文章顶部，会有标签，点击即可搜索所有具有该标签的文章
-> 后续当我不断将我的笔记上线后，你会发现，你只需要点击 `#策略模式`，你就能看见我打的所有该标签的文章了
+>  后续当我不断将我的笔记上线后，你会发现，你只需要点击 `#策略模式`，你就能看见我打的所有该标签的文章了。
 
 
 
@@ -28,29 +28,33 @@
 其实我笔记是没有划分成熟度，因为我自己都记得很清楚。而为了让大家有==**更好的阅读体会**==，特此划分
 
 ### Seedling & 幼苗
-幼苗 (![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)) 只是在最基本的学习和计划，知识点还没有形成连贯性的体系。
-> ![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)
-> 例如，学习了 Spring ，但是只会基本的使用和概念。
+>幼苗 (![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)) 
+>只是在最基本的学习和计划，知识点还没有形成连贯性的体系。
+>> 例如，学习了 Spring ，但是只会基本的使用和概念。
 
 
 ### 小树
-小鼠 (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) 一般指的是，我对这个框架有简单的认识，并且也了解基本的原理。
+>小树 (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) 
+>一般指的是，我对这个框架有简单的认识，并且也了解基本的原理。
 
 ### 大树
-大树 (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) 指的是，我对这个框架有了较深的认识，不过也可能随时扩展哦。我打上大树标志的课，绝对都是你在外边，没看过的知识。你只要在面试中说出，便是一大亮点。
+> 大树 (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) 
+> 我对这个框架有了较深的认识。
+> 我打上大树标志的栏目/笔记，全部都是含有亮点的笔记。你只要在面试中说出，便是一大亮点。
 
 ### 枯萎的树木
-枯萎的树木表示，
-枯萎的树 (![Maturity Level: withered|14](https://hermitage.utsob.me/img/withered.svg)) 即我不在使用，短时间内不会继续更新的文章。
+>枯萎的树 (![Maturity Level: withered|14](https://hermitage.utsob.me/img/withered.svg)) 
+>即我不在使用该框架，短时间内不会继续更新的文章。
 
-### Stone
-Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) are notes exported/extracted from other mediums (e.g. Reading highlight and notes). Growth is irrelevant for these notes.
+### PDF 笔记 & 书籍笔记
+>Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) ：
+   我非常喜欢看书，我后续会不断上线我的阅读笔记，大家也可参考。
 
 ### 指路牌
 指路牌 (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) ，就是目录。我一个栏目会划分很多个文章，文章内又会通过各种链接串联知识点，如果没有一个目录，你绝对会迷路。
 
 > [!Warning] 
-> Maturity Levels are subjective. It might only means that I'm a very immature person.
+> 请勿直接转载本文所有文章
 
 
 ## 以后打算做的
@@ -69,13 +73,5 @@ Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) a
 
 
 
-### Policy
-I don't seek publicity. If you find anything praiseworthy (I doubt you will), tell me privately. For commenting, these are the basic rules I believe not too much to abide by:
-1. Constructive Criticism.
-2. Adhere to the rules of arguments. To name a few:
-    1. No personal attack (it's a fallacy)
-    2. Other logical fallacies
-    3. Avoid irrelevance.
-3. Be civil, please.
 
-[^1]: Here, I'm using the word hermitage as a loose translation of the word [Tapovan](https://en.wikipedia.org/wiki/Tapovan).
+[^1]: .如何你有任何问题，请联系我，我希望您不要有任何顾虑。
