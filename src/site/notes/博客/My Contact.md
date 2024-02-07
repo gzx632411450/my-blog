@@ -1,7 +1,6 @@
 ---
-{"dg-path":"Me/My Contact.md","dg-publish":true,"create":"2024-02-07","update":"2024-02-07","dgPassFrontmatter":true,"title":"My Contact","permalink":"/Me/My Contact/"}
+{"title":"Fernando Pessoa","aliases":["Pessoa"],"type":"Person","dg-publish":true,"dg-note-icon":2,"tags":["person","person/writer"],"updated":"2024-02-07T13:44:00","created":"2024-02-07T11:36:37","dg-path":"Me/My Contact.md","permalink":"/Me/My Contact/","dgPassFrontmatter":true,"noteIcon":2}
 ---
-
 
 
 ### 微信
