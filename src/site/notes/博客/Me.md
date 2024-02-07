@@ -1,5 +1,5 @@
 ---
-{"title":"My Contact","aliases":["Pessoa"],"type":"Person","dg-publish":true,"dg-note-icon":2,"tags":["person","person/writer"],"updated":"2024-02-07T13:44:00","created":"2024-02-07T11:36:37","dg-path":"Me/My Contact.md","dgPassFrontmatter":true,"noteIcon":2,"permalink":"/Me/My Contact/"}
+{"title":"Me","aliases":["Pessoa"],"type":"Person","dg-publish":true,"dg-note-icon":2,"tags":["person","person/writer"],"updated":"2024-02-07T13:44:00","created":"2024-02-07T11:36:37","dg-path":"Me/My Contact.md","dgPassFrontmatter":true,"noteIcon":2,"permalink":"/Me/My Contact/"}
 ---
 
 
