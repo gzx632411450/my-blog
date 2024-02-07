@@ -7,47 +7,47 @@
 > [!quote] 恭喜你发现了宝藏博客
 > 这里是渣渣高的博客，你将在这里看见之前从未见过的笔记形式。
 
-### 简要介绍
+## 简要介绍
 在这里，我不仅会记录我技术之路，包括体验、技术、源码。也希望大家能与我交流， [[博客/My Contact#QQ\|My Contact#QQ]]]  [[博客/My Contact#微信\|My Contact#微信]]
 
 (鼠标千万别停留在链接上，不然你会看见我的联系方式)
->当然，你也可以选择， [connect me with Email](632411450@qq.com)
+>当然，你也可以选择， [connect me with Email](mailto:632411450@qq.com)
 
 我的笔记，到底有什么不同?
->[^2] 手机端没办法享受到**预览**的快乐，也许你应该用电脑试试。
->[^3] 另外，目前使用的是国外网站部署的博客，速度非常感人，我还在寻找解决方案。
+>Tip: 手机端无法预览
 -  预览：鼠标移动到链接上，或者按 `Ctrl` ，点击即可跳转。[[博客/My Contact\|My Contact]]
 - 双链：双链是个神奇的东西，我做笔记的时时刻刻，都会注重双链。简单来说，双链包含出链-->本文引用的其他文章，入链-->引用本文的文章。
 - 知识图谱：非常牛逼的存在，在文章的底部或者右侧，你将看见和本文有关的所有文章
 - 全文搜索：你可以使用 `Ctrl + K` 来进行全文搜索和跳转
-- 
+- 标签：某些文章顶部，会有标签，点击即可搜索所有具有该标签的文章
+>所以说，后续当我不断将我的笔记上线后，你会发现，你只需要点击 `#策略模式`，你就能看见我打的所有该标签的文章了
 
 
 
-## Maturity Levels
-Maturity level for each note is being represented by plant icons of various growth.
+## 文章成熟度
+其实我笔记是没有划分成熟度，因为我自己都记得很清楚。而为了让大家有==**更好的阅读体会**==，特此划分
 
 ### Seedling & 幼苗
 幼苗 (![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)) 只是在最基本的学习和计划，知识点还没有形成连贯性的体系。
 > ![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)
-> 例如，学习了 Spring ，但是只会基本的使用和概念。可以
+> 例如，学习了 Spring ，但是只会基本的使用和概念。
 
 
-### Sapling
-Saplings (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) have a substantial amount of content, but much work to be done. Coherence and patterns are just emerging in it.
+### 小树
+小鼠 (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) 一般指的是，我对这个框架有简单的认识，并且也了解基本的原理。
 
-### Tree
-Trees (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) are grown up coherent piece of thought/essay/expression that should not change much except for some editorial enhancements.
+### 大树
+大树 (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) 指的是，我对这个框架有了较深的认识，不过也可能随时扩展哦。我打上大树标志的课，绝对都是你在外边，没看过的知识。你只要在面试中说出，便是一大亮点。
 
-### Withered & 枯萎
+### 枯萎的树木
 枯萎的树木表示，
-Withered (![Maturity Level: withered|14](https://hermitage.utsob.me/img/withered.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
+枯萎的树 (![Maturity Level: withered|14](https://hermitage.utsob.me/img/withered.svg)) 即我不在使用，短时间内不会继续更新的文章。
 
 ### Stone
 Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) are notes exported/extracted from other mediums (e.g. Reading highlight and notes). Growth is irrelevant for these notes.
 
-### Signpost
-Signposts (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) are notes that allow us to navigate easily (e.g. Collection of books or writings).
+### 指路牌
+指路牌 (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) ，就是目录。我一个栏目会划分很多个文章，文章内又会通过各种链接串联知识点，如果没有一个目录，你绝对会迷路。
 
 > [!Warning] 
 > Maturity Levels are subjective. It might only means that I'm a very immature person.
