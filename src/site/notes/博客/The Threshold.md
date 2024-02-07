@@ -1,13 +1,13 @@
 ---
-{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-06-25T16:59:25+06:00","permalink":"/博客/The Threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost","dg-path":null}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssClasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2023-06-25T16:59:25+06:00","permalink":"/博客/The Threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry","gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 
 > [!quote] 恭喜你发现了宝藏博客
-> 这里是渣渣高[1]的博客，
+> 这里是渣渣高的博客，你将在这里看见之前从未见过的笔记形式。
 
-
-
+### 
+在这里，我不仅会记录我技术之路，包括体验、技术、源码。也希望大家能与我交流，(鼠标千万别停留在链接上，不然你会看见我的 QQ  [[博客/My Contact#QQ\|My Contact#QQ]] 和微信联系方式 [[博客/My Contact#微信\|My Contact#微信]])
 
 With such noise and bustle around us, one cannot help but build a hermitage[^1] in one's mind for contemplation and peace.
 
@@ -20,8 +20,11 @@ If you have any question or opinion, please feel free to contact me at [connect@
 ## Maturity Levels
 Maturity level for each note is being represented by plant icons of various growth.
 
-### Seedling
-Seedlings (![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)) are thoughts barely started. Maybe Jotted down on haste or simply showing only the brief amount of what I thought about it by far.
+### Seedling & 幼苗
+幼苗 (![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)) 只是在最基本的学习和计划，知识点还没有形成连贯性的体系。
+> ![Maturity Level: 1|14](https://hermitage.utsob.me/img/tree-1.svg)
+> 例如，学习了 Spring ，但是只会基本的使用和概念。可以
+
 
 ### Sapling
 Saplings (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) have a substantial amount of content, but much work to be done. Coherence and patterns are just emerging in it.
@@ -29,7 +32,8 @@ Saplings (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) ha
 ### Tree
 Trees (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) are grown up coherent piece of thought/essay/expression that should not change much except for some editorial enhancements.
 
-### Withered
+### Withered & 枯萎
+枯萎的树木表示，
 Withered (![Maturity Level: withered|14](https://hermitage.utsob.me/img/withered.svg)) are the notes expressing outdated views (totally or partially) but kept for the historicity of our thoughts. For partially outdated notes, warnings will be placed wherever appropriate.
 
 ### Stone
