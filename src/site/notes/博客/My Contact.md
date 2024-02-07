@@ -1,5 +1,5 @@
 ---
-{"dg-path":"Me/","dg-publish":true,"create":"2024-02-07","update":"2024-02-07","dgPassFrontmatter":true,"title":"My Contact","permalink":"/Me//"}
+{"dg-path":"Me/My Contact.md","dg-publish":true,"create":"2024-02-07","update":"2024-02-07","dgPassFrontmatter":true,"title":"My Contact","permalink":"/Me/My Contact/"}
 ---
 
 
