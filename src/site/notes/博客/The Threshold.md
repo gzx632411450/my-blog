@@ -6,16 +6,21 @@
 > [!quote] 恭喜你发现了宝藏博客
 > 这里是渣渣高的博客，你将在这里看见之前从未见过的笔记形式。
 
-### 
-在这里，我不仅会记录我技术之路，包括体验、技术、源码。也希望大家能与我交流，(鼠标千万别停留在链接上，不然你会看见我的 QQ  [[博客/My Contact#QQ\|My Contact#QQ]] 和微信联系方式 [[博客/My Contact#微信\|My Contact#微信]])
+### 简要介绍
+在这里，我不仅会记录我技术之路，包括体验、技术、源码。也希望大家能与我交流， [[博客/My Contact#QQ\|My Contact#QQ]]]  [[博客/My Contact#微信\|My Contact#微信]]
+(鼠标千万别停留在链接上，不然你会看见我的联系方式)
+>当然，你也可以选择， [connect me with Email](632411450@qq.com)
 
-With such noise and bustle around us, one cannot help but build a hermitage[^1] in one's mind for contemplation and peace.
+我的笔记，到底有什么不同?
+>[^2] 手机端没办法享受到**预览**的快乐，也许你应该用电脑试试。
+>[^3] 另外，目前使用的是国外网站部署的博客，速度非常感人，我还在寻找解决方案。
+-  预览：鼠标移动到链接上，或者按 `Ctrl` ，点击即可跳转。[[博客/My Contact\|My Contact]]
+- 双链：双链是个神奇的东西，我做笔记的时时刻刻，都会注重双链。简单来说，双链包含出链-->本文引用的其他文章，入链-->引用本文的文章。
+- 知识图谱：非常牛逼的存在，在文章的底部或者右侧，你将看见和本文有关的所有文章
+- 全文搜索：你可以使用 `Ctrl + K` 来进行全文搜索和跳转
+- 
 
-This [digital garden](https://cagrimmett.com/notes/2020/11/08/what-are-digital-gardens/) contains some contemplations and musings from my retreats there.
 
-Unsurprisingly, thoughts here are, like every thought, ever-changing.
-
-If you have any question or opinion, please feel free to contact me at [connect@utsob.me](mailto:connect@utsob.me) or see the [[博客/The Threshold#Discussion\|Discussion]] section for other options.
 
 ## Maturity Levels
 Maturity level for each note is being represented by plant icons of various growth.
