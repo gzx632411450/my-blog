@@ -16,8 +16,8 @@
 
 我的博客，到底有什么不同?
 >Tip: 手机端无法预览
--  预览：鼠标移动到链接上，或者按 `Ctrl` ，点击即可跳转。[[博客/My Contact\|My Contact]]
-- 双链：双链是个神奇的东西，我做笔记的时时刻刻，都会注重双链。简单来说，双链包含出链-->本文引用的其他文章，入链-->引用本文的文章。
+>-  预览：鼠标移动到链接上，或者按 `Ctrl` ，点击即可跳转。[[博客/My Contact\|My Contact]]
+>- 双链：双链是个神奇的东西，我做笔记的时时刻刻，都会注重双链。简单来说，双链包含出链-->本文引用的其他文章，入链-->引用本文的文章。
 - 知识图谱：非常牛逼的存在，在文章的底部或者右侧，你将看见和本文有关的所有文章
 - 全文搜索：你可以使用 `Ctrl + K` 来进行全文搜索和跳转
 - 标签：某些文章顶部，会有标签，点击即可搜索所有具有该标签的文章
@@ -34,16 +34,21 @@
 ### 小树
 >小树 (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) 
 >一般指的是，我对这个框架有简单的认识，并且也了解基本的原理。
+
+
 ### 大树
 > 大树 (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) 
 > 我对这个框架有了较深的认识。
 > 我打上大树标志的栏目/笔记，全部都是含有亮点的笔记。你只要在面试中说出，便是一大亮点。
+
 ### 枯萎的树木
 >枯萎的树 (![Maturity Level: withered|14](https://hermitage.utsob.me/img/withered.svg)) 
 >即我不在使用该框架，短时间内不会继续更新的文章。
+
 ### PDF 笔记 & 书籍笔记
 >Stones (![Maturity Level: stone|14](https://hermitage.utsob.me/img/stone.svg)) ：
    我非常喜欢看书，我后续会不断上线我的阅读笔记，大家也可参考。
+
 ### 指路牌
 指路牌 (![Maturity Level: signpost|14](https://hermitage.utsob.me/img/signpost.svg)) ，就是目录。我一个栏目会划分很多个文章，文章内又会通过各种链接串联知识点，如果没有一个目录，你绝对会迷路。
 
@@ -56,7 +61,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 | <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/> | Tomcat |  |  | <img class=inset-cover src=''/> |
 | <img src='https://hermitage.utsob.me/img/3-cover-card.jpg'/> | Obsidian 使用 | <i icon-name=calendar-clock></i><small>Jan 02, 2024 02:46 pm</small> |  | <img class=inset-cover src=''/> |
-| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/> | [[从博客到笔记法\|从博客到笔记法]] |  |  |  |
+| <img src='https://hermitage.utsob.me/img/2-cover-card.jpg'/> | 从博客到笔记法 |  |  |  |
 
 
 
