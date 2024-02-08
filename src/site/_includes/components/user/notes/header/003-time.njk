@@ -1,10 +1,14 @@
 {%- if created or updated -%}
 <div class="time">
     {%- if created -%}
-    <div class="created">Created: {{ created }}</div>
+    <div class="created">
+        <i class="fas fa-clock"></i> Created: {{ created }}
+    </div>
     {%- endif -%}
     {%- if updated -%}
-    <div class="updated">Updated: {{ updated }}</div>
+    <div class="updated">
+        <i class="fas fa-clock"></i> Updated: {{ updated }}
+    </div>
     {%- endif -%}
 </div>
 {%- endif -%}
