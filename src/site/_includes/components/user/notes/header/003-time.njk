@@ -1,8 +1,7 @@
 {%- if created or updated -%}
 <div class="time">
-    {%- if created -%}
-    <div class="created">
-        <i class="fas fa-clock"></i> 创建: {{ created }}
+    {%- if updated -%}
+    <div class="updated">
         <i class="fas fa-clock"></i> 修改: {{ updated }}
     </div>
     {%- endif -%}
