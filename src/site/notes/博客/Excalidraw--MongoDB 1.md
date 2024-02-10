@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"dg-publish":true,"dg-path":"/Excalidraw/Excalidraw--MongoDB.excalidraw","title":"Excalidraw测试","permalink":"//Excalidraw/Excalidraw--MongoDB/","dgPassFrontmatter":true}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"dg-publish":true,"dg-path":"Excalidraw/Excalidraw--MongoDB.excalidraw","title":"Excalidraw测试","noteIcon":2,"dgPassFrontmatter":true,"type":["Excalidraw"],"permalink":"/Excalidraw/Excalidraw--MongoDB/"}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
