@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"dg-path":"Excalidraw/📑 Excalidraw--Redis数据结构","dg-publish":true,"noteIcon":2,"title":"📑 Excalidraw--Redis数据结构","permalink":"/Excalidraw/📑 Excalidraw--Redis数据结构/","dgPassFrontmatter":true}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"dg-path":"Excalidraw/📑 Excalidraw--Redis数据结构.excalidraw","dg-publish":true,"noteIcon":2,"title":"📑 Excalidraw--Redis数据结构.excalidraw","permalink":"/Excalidraw/📑 Excalidraw--Redis数据结构/","dgPassFrontmatter":true}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
