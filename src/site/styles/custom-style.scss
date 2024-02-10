@@ -599,6 +599,7 @@ body.backlinks-note-icon .backlink[data-note-icon="withered"]::before {
 
     .backlinks {
         flex: unset;
+        z-index: 99999;
         @media (max-width: 1400px) {
             order: 3;
         }
