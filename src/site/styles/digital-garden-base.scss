@@ -457,6 +457,8 @@ ul.task-list {
     border-radius: 15px;
     padding: 10px;
     height: fit-content;
+    position: fixed;
+    z-index: 99999;
 }
 
 .search-box input {
