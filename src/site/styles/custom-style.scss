@@ -387,6 +387,7 @@ body {
         border-radius: 10px;
         border: var(--cards-border-width) solid var(--background-modifier-border);
         z-index: 9998;
+        height: 45px;
         .navbar-inner {
             h1::before {
                 content: " ";
