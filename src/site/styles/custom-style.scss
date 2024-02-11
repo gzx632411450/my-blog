@@ -381,9 +381,9 @@ body {
     }
 
     nav.navbar {
-        top: 10px;
-        right: 10px;
-        left: 10px;
+        top: 0px;
+        right: 0px;
+        left: 0px;
         width: calc(100% - 20px);
         border-radius: 10px;
         border: var(--cards-border-width) solid var(--background-modifier-border);
