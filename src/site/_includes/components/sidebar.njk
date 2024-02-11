@@ -33,7 +33,7 @@
                                           {%- if page.url == "/" -%}
                                                 {%- if graph.nodes[graph.homeAlias].backLinks.length === 0 -%}
                                                       <div class="backlink-card">
-                                                            <span class="no-backlinks-message">No other pages mentions this page</span>
+                                                            <span class="no-backlinks-message">未被引用</span>
                                                       </div>
                                                 {%- endif -%}
                                           {%- for backlink in graph.nodes[graph.homeAlias].backLinks -%}
@@ -46,7 +46,7 @@
                                           {%- else -%}
                                                 {%- if graph.nodes[page.url].backLinks.length === 0 -%}
                                                       <div class="backlink-card">
-                                                            <span class="no-backlinks-message">No other pages mentions this page</span>
+                                                            <span class="no-backlinks-message">未被引用</span>
                                                       </div>
                                                 {%- endif -%}
                                           {%- for backlink in graph.nodes[page.url].backLinks -%}
