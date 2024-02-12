@@ -6918,6 +6918,7 @@ body {
   .markdown-rendered ul,
   .markdown-rendered ol {
     padding-inline-start: var(--list-indent);
+    margin-left: -10px;
   }
   .cm-line.HyperMD-list-line {
     tab-size: var(--list-indent);
