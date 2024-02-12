@@ -6130,7 +6130,7 @@ body {
     color: var(--code-important);
   }
   .markdown-rendered code {
-    color: blue($color: #000000);
+    color: blue;
     font-family: var(--font-monospace);
     background-color: var(--code-background);
     border-radius: var(--radius-s);
