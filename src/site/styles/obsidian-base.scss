@@ -6761,8 +6761,8 @@ body {
   .markdown-rendered .internal-link {
     cursor: var(--cursor-link);
     text-decoration-line: var(--link-decoration);
-    text-decoration-line: underline;
-    text-decoration-color: black;
+    text-decoration-line: underline !important;
+    text-decoration-color: black !important;
   }
   @media (hover: hover) {
     .markdown-rendered .internal-link:hover {
