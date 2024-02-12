@@ -6130,11 +6130,11 @@ body {
     color: var(--code-important);
   }
   .markdown-rendered code {
-    color: var(--code-normal);
+    color: blue($color: #000000);
     font-family: var(--font-monospace);
     background-color: var(--code-background);
     border-radius: var(--radius-s);
-    font-size: var(--code-size);
+    font-size: 13px;
     padding: 0.1em 0.25em;
   }
   .cm-s-obsidian span.cm-inline-code {
