@@ -29,7 +29,7 @@ Saplings (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) ha
 ### Tree
 Trees (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) are grown up coherent piece of thought/essay/expression that should not change much except for some editorial enhancements.
 ```java
-public satic void main(String[] args){
+public satic void main(String[]){
 
 }
 ```
@@ -41,11 +41,11 @@ public satic void main(String[] args){
   <button class="tablinks" onclick="openTab(event, 'DAO')">DAO</button>
 </div>
 <div id="Controller" class="tabcontent">
-    <code class="  language-java">
-    public satic void main (String[] args){
+  <p><code>
+      public satic void main (String[]){
 
 }
-    <code>
+  </code></p>
 </div>
 <div id="Service" class="tabcontent">
   <p>这里是 Service 的代码。</p>
