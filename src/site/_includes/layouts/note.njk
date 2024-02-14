@@ -92,5 +92,23 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
+    <script>
+      <script>
+          // JavaScript 部分
+          function openTab(evt, tabName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+              tabcontent[i].style.display = "none"; // 隐藏所有 tab 内容
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+              tablinks[i].className = tablinks[i].className.replace(" active", ""); // 移除所有 tab 按钮的 "active" 类
+            }
+            document.getElementById(tabName).style.display = "block"; // 显示当前 tab 的内容
+            evt.currentTarget.className += " active"; // 添加 "active" 类到当前激活的 tab 按钮
+          }
+</script>
+    </script>
   </body>
 </html>
