@@ -28,21 +28,24 @@ Saplings (![Maturity Level: 2|14](https://hermitage.utsob.me/img/tree-2.svg)) ha
 
 ### Tree
 Trees (![Maturity Level: 3|14](https://hermitage.utsob.me/img/tree-3.svg)) are grown up coherent piece of thought/essay/expression that should not change much except for some editorial enhancements.
+```java
+public satic void main(String[] args){
+
+}
+```
+
 
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Controller')">Controller</button>
   <button class="tablinks" onclick="openTab(event, 'Service')">Service</button>
   <button class="tablinks" onclick="openTab(event, 'DAO')">DAO</button>
 </div>
-
 <div id="Controller" class="tabcontent">
   <p>这里是 Controller 的代码。</p>
 </div>
-
 <div id="Service" class="tabcontent">
   <p>这里是 Service 的代码。</p>
 </div>
-
 <div id="DAO" class="tabcontent">
   <p>这里是 DAO 的代码。</p>
 </div>
