@@ -41,8 +41,8 @@ public satic void main(String[]){
   <button class="tablinks" onclick="openTab(event, 'DAO')">DAO</button>
 </div>
 <div id="Controller" class="tabcontent">
-  <pre><code>
-      public satic void main (String[]){
+  <pre><code class="language-java">
+public satic void main (String[]){
 
 }
   </code></pre>
