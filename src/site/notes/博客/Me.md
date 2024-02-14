@@ -41,11 +41,11 @@ public satic void main(String[] args){
   <button class="tablinks" onclick="openTab(event, 'DAO')">DAO</button>
 </div>
 <div id="Controller" class="tabcontent">
-<code>
+
 public satic void main (String[] args){
 
 }
-</code>
+
 </div>
 <div id="Service" class="tabcontent">
   <p>这里是 Service 的代码。</p>
