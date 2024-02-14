@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"dg-publish":true,"dg-path":"Excalidraw/Redis数据结构.excalidraw","dgPassFrontmatter":true,"permalink":"/Excalidraw/Redis数据结构/","noteIcon":""}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"dg-publish":true,"dg-path":"Excalidraw/Redis数据结构.excalidraw","dgPassFrontmatter":true,"dg-note-icon":2,"permalink":"/Excalidraw/Redis数据结构/","noteIcon":2}
 ---
 <style> .container {font-family: sans-serif; text-align: center;} .button-wrapper button {z-index: 1;height: 40px; width: 100px; margin: 10px;padding: 5px;} .excalidraw .App-menu_top .buttonList { display: flex;} .excalidraw-wrapper {
   width: 100vw; /* 视口宽度 */
