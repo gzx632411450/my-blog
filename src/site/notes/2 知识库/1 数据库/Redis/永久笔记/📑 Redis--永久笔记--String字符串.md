@@ -5,8 +5,7 @@
 
 
 ## 编码实现
-[Redis--永久笔记--REDIS_STRING类型](📑%20Redis--子知识笔记--REDIS_STRING类型.md)
-
+[[2 知识库/1 数据库/Redis/永久笔记/📑 Redis--子知识笔记--REDIS_STRING类型\|📑 Redis--子知识笔记--REDIS_STRING类型]]
 ## 应用场景
 验证码、计数器、订单重复提交、⽤户登录信息、商品详情
 
