@@ -2,8 +2,7 @@
 {"banner":"zob_config/banners/014.jpeg","create":"2023-06-29","update":"2023-06-29","status":["待完成"],"publish":false,"priority":1,"aliases":["Redis--永久笔记--String字符串"],"tags":[],"dg-publish":true,"dg-note-icon":2,"dgPassFrontmatter":true,"noteIcon":2,"dg-path":"Redis/Redis--永久笔记--String 字符串","title":"📑 Redis--永久笔记--String 字符串","permalink":"/Redis/Redis--永久笔记--String 字符串/"}
 ---
 
-[[子知识—他的底层实现\|子知识—他的底层实现]]
-[[具体案例\|具体案例]]
+
 
 ## 编码实现
 [Redis--子知识笔记--REDIS_STRING类型](📑%20Redis--子知识笔记--REDIS_STRING类型.md)
