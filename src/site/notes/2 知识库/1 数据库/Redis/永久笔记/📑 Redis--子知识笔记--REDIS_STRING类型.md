@@ -1,5 +1,5 @@
 ---
-{"banner":"zob_config/banners/002.jpeg","create":"2023-05-30","update":"2023-05-30","status":["待完成"],"publish":false,"priority":1,"aliases":["Redis--永久笔记--REDIS_STRING类型"],"tags":[],"banner_x":0.5,"dg-publish":true,"dg-note-icon":2,"dgPassFrontmatter":true,"noteIcon":2,"dg-path":"Redis/📑 Redis--子知识笔记--REDIS_STRING 类型","title":"📑 Redis--子知识笔记--REDIS_STRING 类型","permalink":"/Redis/📑 Redis--子知识笔记--REDIS_STRING 类型/"}
+{"banner":"zob_config/banners/002.jpeg","create":"2023-05-30","update":"2023-05-30","status":["待完成"],"publish":false,"priority":1,"tags":[],"banner_x":0.5,"dg-publish":true,"dg-note-icon":2,"dgPassFrontmatter":true,"noteIcon":2,"dg-path":"Redis/Redis--子知识笔记--REDIS_STRING 类型.md","title":"📑 Redis--子知识笔记--REDIS_STRING 类型","permalink":"/Redis/Redis--子知识笔记--REDIS_STRING 类型/"}
 ---
 
 
