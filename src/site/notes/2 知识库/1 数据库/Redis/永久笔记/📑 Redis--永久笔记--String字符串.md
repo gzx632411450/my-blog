@@ -9,7 +9,8 @@
 ## 应用场景
 验证码、计数器、订单重复提交、⽤户登录信息、商品详情
 
-![](/img/user/zob_attach/Pasted image 20230705112419.png)
+![Pasted image 20230705112419.png](/img/user/zob_attach/Pasted%20image%2020230705112419.png)
+
 
 
 >注：APPEND 可以用于存储日志
