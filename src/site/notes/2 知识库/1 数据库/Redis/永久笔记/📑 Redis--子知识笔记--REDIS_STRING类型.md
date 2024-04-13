@@ -132,3 +132,5 @@ struct __attribute__ ((__packed__)) sdshdr64 {
 ## 浮点数
 这里要注意：
 >浮点数在 Redis 中并没有小数位长度限制，但计算之后，只会处理 17 位
+
+[[2 知识库/1 数据库/Redis/永久笔记/📑 Redis--子知识笔记--REDIS_STRING类型\|📑 Redis--子知识笔记--REDIS_STRING类型]]
